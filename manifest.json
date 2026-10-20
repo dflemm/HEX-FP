@@ -1,11 +1,11 @@
 {
-    "name": "Fill Percent Calculator",
-    "short_name": "Fill Percent Calculator",
+    "name": "fill_percent",
+    "short_name": "fill_percent",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "An approximate gas fill percent calculator",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
