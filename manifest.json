@@ -1,11 +1,11 @@
 {
-    "name": "fill_percent",
+    "name": "Fill Status Calculator",
     "short_name": "Fill Status",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Pressure vessel fill status calculator.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
